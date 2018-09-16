@@ -1,0 +1,14 @@
+Type of objects:
+
+{
+  "id": {},
+  "type": "[event|conference|meetup|talk]",
+  "name": {},
+  "speakers": {
+    "name": {}
+  },
+  "date": {},
+  "venue": {},
+  "agenda": {},
+  "description": {}
+}
